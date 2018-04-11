@@ -1,15 +1,4 @@
 <?PHP
-    /* License: 
-       Open source for private and commercial use but this comment needs to stay untouched on top.
-       URL of original source code: http://scraping.compunect.com
-       Author of original source code: http://www.compunect.com
-       IP rotation API code from here: http://www.us-proxies.com/automate
-       Under no circumstances and under no legal theory, whether in tort (including negligence), contract, or otherwise, shall the Licensor be liable to anyone for any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Original Work including, without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses. This limitation of liability shall not apply to the extent applicable law prohibits such limitation.
-       Usage exceptions:
-       Public redistributing modifications of this source code project is not allowed without written agreement.
-       Using this work for private and commercial projects is allowed, redistributing it is not allowed without our written agreement.
-     */
-	
     function verbose($text)
     {
         echo $text;
